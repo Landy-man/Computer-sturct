@@ -1,0 +1,11 @@
+D:\Teaching\ECS\Excersises\Ex2\Assembler\bin\Debug\Assembler.exe
+D:\Teaching\ECS\Excersises\Ex2\Assembler\bin\Debug\Assembler.pdb
+D:\Teaching\ECS\Excersises\Ex2\Assembler\obj\x86\Debug\Assembler.exe
+D:\Teaching\ECS\Excersises\Ex2\Assembler\obj\x86\Debug\Assembler.pdb
+D:\Teaching\ECS\Excersises\Ex3\Code\Assembler\obj\x86\Debug\Assembler.exe
+D:\Teaching\ECS\Excersises\Ex3\Code\Assembler\obj\x86\Debug\Assembler.pdb
+C:\Users\user\Dropbox\לימודים\שנה ב' סמסטר א'\מבנה מערכות מחשוב\עבודות\Ex3.2015 (1)\Code\Assembler\obj\x86\Debug\Assembler.exe
+C:\Users\user\Dropbox\לימודים\שנה ב' סמסטר א'\מבנה מערכות מחשוב\עבודות\Ex3.2015 (1)\Code\Assembler\obj\x86\Debug\Assembler.pdb
+C:\Users\user\Dropbox\לימודים\שנה ב' סמסטר א'\מבנה מערכות מחשוב\עבודות\Ex3.2015 (1)\Code\Assembler\bin\Debug\Assembler.exe
+C:\Users\user\Dropbox\לימודים\שנה ב' סמסטר א'\מבנה מערכות מחשוב\עבודות\Ex3.2015 (1)\Code\Assembler\bin\Debug\Assembler.pdb
+C:\Users\user\Dropbox\לימודים\שנה ב' סמסטר א'\מבנה מערכות מחשוב\עבודות\Ex3.2015 (1)\Code\Assembler\obj\x86\Debug\Assembler.csprojResolveAssemblyReference.cache

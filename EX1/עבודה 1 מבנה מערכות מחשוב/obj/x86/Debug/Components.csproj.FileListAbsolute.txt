@@ -1,0 +1,24 @@
+D:\Research\projects\Computing Systems\Components\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Research\projects\Computing Systems\Components\bin\Debug\Components.exe
+D:\Research\projects\Computing Systems\Components\bin\Debug\Components.pdb
+D:\Research\projects\Computing Systems\Components\obj\x86\Debug\Components.exe
+D:\Research\projects\Computing Systems\Components\obj\x86\Debug\Components.pdb
+D:\teaching\Computing Systems\Excersizes\Ex1\Components\obj\x86\Debug\Components.exe
+D:\teaching\Computing Systems\Excersizes\Ex1\Components\obj\x86\Debug\Components.pdb
+D:\teaching\Computing Systems\Excersizes\Ex1\Components\bin\Debug\Components.exe
+D:\teaching\Computing Systems\Excersizes\Ex1\Components\bin\Debug\Components.pdb
+D:\teaching\Computing Systems\Excersizes\Ex1\Components\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Teaching\ECS\Excersises\Ex1\Components\obj\x86\Debug\Components.exe
+D:\Teaching\ECS\Excersises\Ex1\Components\obj\x86\Debug\Components.pdb
+D:\Teaching\ECS\Excersises\Ex1\Components\bin\Debug\Components.exe
+D:\Teaching\ECS\Excersises\Ex1\Components\bin\Debug\Components.pdb
+C:\Users\user\Dropbox\לימודים\שנה ב' סמסטר א'\מבנה מערכות מחשוב\עבודות\Components.2015 (1)\Components\obj\x86\Debug\Components.exe
+C:\Users\user\Dropbox\לימודים\שנה ב' סמסטר א'\מבנה מערכות מחשוב\עבודות\Components.2015 (1)\Components\obj\x86\Debug\Components.pdb
+C:\Users\user\Dropbox\לימודים\שנה ב' סמסטר א'\מבנה מערכות מחשוב\עבודות\Components.2015 (1)\Components\bin\Debug\Components.exe
+C:\Users\user\Dropbox\לימודים\שנה ב' סמסטר א'\מבנה מערכות מחשוב\עבודות\Components.2015 (1)\Components\bin\Debug\Components.pdb
+C:\Users\user\Dropbox\לימודים\שנה ב' סמסטר א'\מבנה מערכות מחשוב\עבודות\Components.2015 (1)\Components\obj\x86\Debug\Components.csprojResolveAssemblyReference.cache
+C:\Users\user\Dropbox\לימודים\שנה ב' סמסטר א'\מבנה מערכות מחשוב\עבודות\Components.2015 (1)\עבודה 1 מבנה מערכות מחשוב\obj\x86\Debug\Components.exe
+C:\Users\user\Dropbox\לימודים\שנה ב' סמסטר א'\מבנה מערכות מחשוב\עבודות\Components.2015 (1)\עבודה 1 מבנה מערכות מחשוב\obj\x86\Debug\Components.pdb
+C:\Users\user\Dropbox\לימודים\שנה ב' סמסטר א'\מבנה מערכות מחשוב\עבודות\Components.2015 (1)\עבודה 1 מבנה מערכות מחשוב\bin\Debug\Components.exe
+C:\Users\user\Dropbox\לימודים\שנה ב' סמסטר א'\מבנה מערכות מחשוב\עבודות\Components.2015 (1)\עבודה 1 מבנה מערכות מחשוב\bin\Debug\Components.pdb
+C:\Users\user\Dropbox\לימודים\שנה ב' סמסטר א'\מבנה מערכות מחשוב\עבודות\Components.2015 (1)\עבודה 1 מבנה מערכות מחשוב\obj\x86\Debug\Components.csprojResolveAssemblyReference.cache
